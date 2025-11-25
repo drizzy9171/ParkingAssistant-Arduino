@@ -27,7 +27,7 @@ This project uses an ultrasonic sensor to measure the distance to obstacles and 
 
 
 ## Circuit Diagram
-[]
+[Arduino-CrDiagram.png]
 ### Pin Connections:
 **PING Sensor:**
 - SIG → Pin 7
