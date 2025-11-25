@@ -50,7 +50,7 @@ This project uses an ultrasonic sensor to measure the distance to obstacles and 
 - GND → GND
 
 ## CODE
-[]
+[PrkAstntArd.ino]
 
 ## How It Works
 
